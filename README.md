@@ -6,4 +6,11 @@
 	"萝丽三代接收机12通兼容A版"为固件程序
 
 #### 接收机实物图
-![image](https://github.com/ClimbSnail/LuoLi_Controller_For_UAV/blob/master/image.jpg)
+![](https://gitee.com/ClimbSnailQ/Project_Image/raw/master/OtherProject/image_mini.jpg)
+
+![image](./image_mini.jpg)
+
+![image](./萝莉控12通道接收机.jpg)
+
+![](https://gitee.com/ClimbSnailQ/Project_Image/raw/master/OtherProject/萝莉控12通道接收机.jpg)
+
